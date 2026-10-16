@@ -103,14 +103,6 @@ Counts from the search and screening log. The full-text exclusions and the final
 </details>
 
 <details>
-<summary><b>🤝 <code>Screening</code>: inter-rater agreement</b></summary>
-
-<br/>
-
-One Reviewer A × Reviewer B decision table per screening stage. Observed agreement, expected agreement and Cohen's κ are calculated from the four cells in each table.
-</details>
-
-<details>
 <summary><b>📊 <code>Summary</code>: every distribution in the paper</b></summary>
 
 <br/>
@@ -125,7 +117,6 @@ Year, main tier, domain, tier × domain (Table 5), publication status, preprint 
 | In the paper | Where to look |
 |---|---|
 | PRISMA flow diagram | `PRISMA_Flow` → column C |
-| Agreement and κ | `Screening` |
 | Figure 1: studies per year | `Summary` → Publication year |
 | Figure 2: countries | `Summary` → First-author country |
 | Figure 4: domains | `Summary` → Application domain |
