@@ -150,12 +150,6 @@ To find the studies behind any count, filter the matching column in `Included_10
 
 ## Citation
 
-```bibtex
-@article{slm_review_2026,
-  title   = {Small Language Models: A Systematic Review},
-  journal = {Big Data and Cognitive Computing},
-  year    = {2026}
-}
-```
+Will be updated later.
 
 Data licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
