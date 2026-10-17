@@ -4,7 +4,7 @@
 
 **102 studies · 27 countries · Jan 2022 to Apr 2026 · models up to 10B parameters**
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI.svg)](https://doi.org/ZENODO_DOI)
+[![DOI](https://zenodo.org/badge/1422161762.svg)](https://doi.org/10.5281/zenodo.23440242)
 ![Studies](https://img.shields.io/badge/included_studies-102-1F3A5F)
 ![PRISMA](https://img.shields.io/badge/PRISMA-2020-2E8B57)
 ![Kappa](https://img.shields.io/badge/Cohen's_κ-0.90_%7C_0.67-8A63D2)
