@@ -57,7 +57,7 @@ pie showData
 |---|---|
 | 🌍 **Where the work comes from** | United States 36 · China 22 · India 6 · Germany 5 · South Korea 4 · 22 other countries |
 | 🧩 **Most studied domains** | NLP 19 · Agentic AI 17 · Coding 11 · Healthcare 9 · Robotics 9 |
-| 📄 **Publication status** | 73 peer-reviewed · 29 preprints (included under criteria a, b or c) |
+| 📄 **Publication status** | 74 peer-reviewed · 28 preprints (included under criteria a, b or c) |
 | ⚖️ **Near the 10B line** | 27 studies use a 7–10B model; 9 use only such models |
 
 ---
@@ -120,7 +120,7 @@ Year, main tier, domain, tier × domain (Table 5), publication status, preprint 
 | Figure 1: studies per year | `Summary` → Publication year |
 | Figure 2: countries | `Summary` → First-author country |
 | Figure 4: domains | `Summary` → Application domain |
-| Table 4: 82 domain-specific studies | `Included_102` → filter `Domain` ≠ General |
+| Table 4: all 102 included studies | `Included_102` (one row per study, grouped by `Domain`) |
 | Table 5: tier × domain | `Summary` → Main tier × domain |
 | Preprints and criteria a/b/c | `Summary` → Publication status, Preprint criteria |
 | 7–10B sensitivity | `Summary` → Sensitivity |
