@@ -46,11 +46,11 @@ xychart-beta
 pie showData
     title Main model scale tier
     "Lightweight (<100M)" : 18
-    "Compact (100M–<1B)" : 24
+    "Compact (100M–<1B)" : 26
     "Moderate (1B–<7B)" : 30
     "Higher (7B–10B)" : 15
     "Mixed" : 12
-    "Not stated" : 3
+    "Not stated" : 1
 ```
 
 | | |
@@ -58,6 +58,7 @@ pie showData
 | 🌍 **Where the work comes from** | United States 36 · China 22 · India 6 · Germany 5 · South Korea 4 · 22 other countries |
 | 🧩 **Most studied domains** | NLP 19 · Agentic AI 17 · Coding 11 · Healthcare 9 · Robotics 9 |
 | 📄 **Publication status** | 74 peer-reviewed · 28 preprints (included under criteria a, b or c) |
+| 💾 **Openness** | 57 studies release code or model weights |
 | ⚖️ **Near the 10B line** | 27 studies use a 7–10B model; 9 use only such models |
 
 ---
@@ -82,6 +83,8 @@ pie showData
 | `Domain` | Application domain (Figure 4 and Tables 4–5) |
 | `Training data`, `Evaluation data`, `Tasks`, `Key contribution` | Extracted study content |
 | `Country (first author)` | Country of the first author's first-listed affiliation (Figure 2) |
+| `Baseline` | Main comparison systems reported by the study (Table 4) |
+| `Code or weights released` | Whether the authors released code or model weights (Table 4) |
 
 Headers stay frozen and every column has a filter.
 </details>
